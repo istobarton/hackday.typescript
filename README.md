@@ -11,10 +11,10 @@ In this set of examples and tests we cover typescript concepts by building a sim
 
 ```bash
 # clone our repo
-git clone https://github.com/hackages/typescript.koans.git
+git clone https://github.com/hackages/hackday.typescript.git
 
 # change directory to our repo
-cd typescript.koans
+cd hackday.typescript
 
 # start the server (`npm install` will be performed for you)
 npm start
